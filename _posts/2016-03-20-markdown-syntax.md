@@ -71,14 +71,17 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
-## Code Snippets
+## 코드
 
 {% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
+a = input("입력하세요:")
+print(a)
+#print(a+1)
+b = int(a) + 1
+print(b)
+
+c = int(input("입력하세요:"))
+print(c+5)
 {% endhighlight %}
 
 ## Buttons
