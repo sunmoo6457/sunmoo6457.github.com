@@ -16,21 +16,20 @@ comments: true
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-# Heading 1
+# 태스트 1
 
-## Heading 2
+## 태스트 2
 
-### Heading 3
+### 태스트 3
 
-#### Heading 4
+#### 태스트 4
 
-##### Heading 5
+##### 태스트 5
 
-###### Heading 6
+###### 태스트 6
 
 ### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+글자테스트
 
 ![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
 {: .image-right}
