@@ -11,8 +11,8 @@ tag:
 - jekyll
 comments: true
 ---
-
-## HTML Elements
+'''위에 있는건 필수요소라(타이틀 변경가능,설명 변경가능,태그변경가능)지우면 힘들어짐
+## HTML 엘리멘트
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
