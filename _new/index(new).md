@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: post
 tite: 테스트
-tags: [new, Jekyll, theme, moon]
 date: 2021-07-24
-comments: false
+excerpt: "it's test."
+tags: [sample post, readability, test]
+comments: true
 ---
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
 
 ## 글자크기 조정
 # 매우 큰크기(#1개)
