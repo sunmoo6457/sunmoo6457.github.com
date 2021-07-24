@@ -1,6 +1,6 @@
 ---
 layout: post
-tite: 테스트
+title: 테스트
 date: 2021-07-24
 excerpt: "it's test."
 tags: [sample post, readability, test]
