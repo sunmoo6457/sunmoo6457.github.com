@@ -2,7 +2,7 @@
   
 ### `힘세고 강한 아침! 내이름을 묻는다면 나는왈도.`
     
-######(If you like this theme or using it, please give a :star: for motivation.)
+######(이곳에서 할수있다 너는 종이 수정.)
 
 **[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
