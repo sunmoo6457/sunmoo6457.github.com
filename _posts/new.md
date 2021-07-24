@@ -3,7 +3,7 @@ layout: post
 title: 테스트
 date: 2021-07-24
 excerpt: "it's test."
-tags: [sample post, readability, test]
+tags: [sample post, readability, 테스트]
 comments: true
 ---
 
