@@ -1,5 +1,5 @@
 ---
-layout: new
+layout: page
 title: new the Theme
 tags: [new, Jekyll, theme, moon]
 date: 2016-03-21
