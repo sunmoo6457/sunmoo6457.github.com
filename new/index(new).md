@@ -17,7 +17,16 @@ comments: false
 
 ## 기초 문법(파이썬)
 
+{% highlight css %}
+a = input("입력하세요:")
+print(a)
+#print(a+1)
+b = int(a) + 1
+print(b)
 
+c = int(input("입력하세요:"))
+print(c+5)
+{% endhighlight %}
 
 ## Getting Started
 
