@@ -6,7 +6,7 @@
 
 **[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-# 목차
+# 참고
 * md문서=post등등이 될수있음
 * 자바 스크립트=자바 스크립트
 
