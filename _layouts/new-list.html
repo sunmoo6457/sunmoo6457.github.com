@@ -23,7 +23,7 @@ layout: compress
                 </div>
                 <div class="new-list">
                     {% for new in site.new %} 
-                        {% if post.project == null %}
+                        {% if new.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ new.url }}">{{ new.title }}</a>
